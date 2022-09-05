@@ -1,4 +1,4 @@
-<h1 align="center">I am Bar Bettash</h1>
+<h1 align="center">Bar Bettash</h1>
 <h3 align="center">Machine Learning Engineer & Investments Manager</h3>
 
 - 🔭 I’m currently working at SegriTech as **Machine Learning Engineer**
